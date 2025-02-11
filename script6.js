@@ -116,7 +116,7 @@ function mainBrandFIltering(data){
               brandSortedArray = brandSortedArray.filter(item => item.id !== brandId)
             }
             
-
+            console.log(brandSortedArray);
             openSortingPrice(brandSortedArray);
             sortingPrice(brandSortedArray);
             brandRamSort(brandSortedArray);
@@ -131,12 +131,14 @@ function mainBrandFIltering(data){
 let brandSortedRam = [];
 
 function brandRamSort(details){
+    console.log(details)
     const ramList = document.querySelectorAll(".ram-list li");
 
     ramList.forEach(item => {
 
         item.addEventListener('change' , () => {
         productSection.innerHTML = "";
+        brandSortedRam = [];
         const checkbox = item.querySelector("input");
         let ram = Number(checkbox.id);
 
@@ -158,7 +160,6 @@ function brandRamSort(details){
 
     });
 };
-
 
 
 // ------------------------------------------------------BRAND-RAM-PRICE----------------------------------------------------------------
@@ -189,12 +190,12 @@ let brandSorted = [];
 
 function sortedBrandRamPrice(data,minValue,maxValue){
    const finalSorted = data.filter(item => item.offerPrice >= minValue && item.offerPrice <= maxValue);
+   brandSorted = [];
    console.log(finalSorted);
    brandSorted.push(...finalSorted)
    openSortingPrice(brandSorted);
    sortingPrice(brandSorted);
 };
-
 
 //  ----------------------------------------------------BRAND-PRICE-FILTERING---------------------------------------------------------------------------
 
