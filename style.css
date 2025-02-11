@@ -518,9 +518,9 @@ nav{
 .no-result.active{
     display: flex;
 }
-@media  screen and (min-width: 325px) {
+@media  screen and (min-width: 320px) {
     .catergories{
-        width: 300px;
+        display: none;
     }
     .filter-head{
         width: 130%;
@@ -532,6 +532,7 @@ nav{
 
 @media screen and (min-width: 375px){
     .catergories{
+        display: flex;
         width: 950px;
     }
     .sort-section{
@@ -556,6 +557,9 @@ nav{
 
     .filter-head{
       width: 100%;
+    }
+    .catergories{
+        display: flex;
     }
 
 }
