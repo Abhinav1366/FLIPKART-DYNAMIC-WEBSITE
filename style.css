@@ -518,6 +518,17 @@ nav{
 .no-result.active{
     display: flex;
 }
+@media  screen and (min-width: 325px) {
+    .catergories{
+        width: 300px;
+    }
+    .filter-head{
+        width: 130%;
+    }
+    .sort-section{
+        width: 700px;
+    }
+}
 
 @media screen and (min-width: 375px){
     .catergories{
