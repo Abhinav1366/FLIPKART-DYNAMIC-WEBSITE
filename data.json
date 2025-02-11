@@ -1,0 +1,1345 @@
+{
+  "brands": [
+    {
+      "id": "Apple",
+      "image": "images/iphone-15-black-128.webp",
+      "title": "Apple iPhone 15 (Black, 128 GB)",
+      "ratings": {
+        "average": 1,
+        "count": "22135",
+        "reviewCount": 1204
+      },
+      "details": [
+        "128 GB ROM",
+        "17.02 cm(6.7 inch) Super Retina XDR Display",
+        "12MP + 12MP | 12MP Front Camera",
+        "A15 Bionic Chip, 6 Core Processor"
+      ],
+      "offerPrice": "60478",
+      "price": "79,600",
+      "discount": "24% off",
+      "delivery": "Free delivery"
+    },
+
+    {
+      "id": "Apple",
+      "image": "images/iphone-15plus-blue.webp",
+      "title": "Apple iPhone 15 Plus(Blue, 128 GB)",
+      "ratings": {
+        "average": 4.6,
+        "count": 7780,
+        "reviewCount": 645
+      },
+      "details": [
+        "128 GB ROM",
+        "17.02 cm(6.7 inch) Super Retina XDR Display",
+        "48MP + 12MP | 12MP Front Camera",
+        "A16 Bionic Chip, 6 Core Processor"
+      ],
+      "offerPrice": "60478",
+      "price": "79,600",
+      "discount": "24% off",
+      "delivery": "Free delivery"
+    },
+
+    {
+      "id": "MOTOROLA",
+      "image": "images/moto-g64.webp",
+      "title": "Motorola g64 (MInt Green, 128 GB)",
+      "ram": 8,
+      "ratings": {
+        "average": 1,
+        "count": 22135,
+        "reviewCount": 1204
+      },
+      "details": [
+        "8GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+        "16.51 cm (6.5 inch) Full HD+ Display",
+        "50MP (OIS) + Battery",
+        "Dimensity 7025 Processor"
+      ],
+      "offerPrice": "13999",
+      "price": "17999",
+      "discount": "10% off",
+      "delivery": "Free delivery"
+    },
+
+    {
+      "id": "Apple",
+      "image": "images/iphone-15-black-128.webp",
+      "title": "Apple  iphone 15 (Black, 128 GB)",
+      "ratings": {
+        "average": 1,
+        "count": "22135",
+        "reviewCount": 1204
+      },
+      "details": [
+        "128 GB ROM",
+        "17.02 cm(6.7 inch) Super Retina XDR Display",
+        "12MP + 12MP | 12MP Front Camera",
+        "A15 Bionic Chip, 6 Core Processor",
+        "Vegan Leather Design"
+      ],
+      "offerPrice": "60478",
+      "price": "79,600",
+      "discount": "24% off",
+      "delivery": "Free delivery"
+    },
+
+    {
+      "id": "vivo",
+      "title": "vivo T3 Lite 5G (Majesctic Black,  128 GB)",
+      "details": [
+        "4 GB RAM | 128 GB ROM  | Expandable Upto 1 TB",
+        "6.66 cm (6.56 inch) Display",
+        "50MP + 2MP | 8MP Front camera",
+        "5000 mAh Battery",
+        "Dimensity 6300 Processor"
+      ],
+      "ram": 4,
+      "ratings": {
+        "average": 4.4,
+        "count": 9090,
+        "reviewCount": 317
+      },
+      "price": "15,499",
+      "offerPrice": "11499",
+      "discount": "24% off",
+      "delivery": "Free delivery",
+      "image": "images/vivo-t3-lite-black-128.webp"
+    },
+
+    {
+      "id": "MOTOROLA",
+      "title": "Motorola g04s (Concord Black, 64 GB)",
+      "details": [
+        "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB",
+        "16.76 cm (6.6 inch) HD+ Display",
+        "50MP Rear Camera | 5MP Front Camera",
+        "5000 mAh Battery",
+        "T606 Processor"
+      ],
+      "ratings": {
+        "average": 4.4,
+        "count": 9090,
+        "reviewCount": 317
+      },
+      "price": "9999",
+      "offerPrice": "6999",
+      "discount": "24% off",
+      "delivery": "Free delivery",
+      "image": "images/moto-g04s black-64.webp"
+    },
+
+    {
+      "id": "MOTOROLA",
+      "title": "Motorola g64 5G (Ice Lilac, 256 GB)",
+      "ram": 6,
+      "details": [
+        "6 GB RAM | 256 GB ROM | Expandable Upto 1 TB",
+        "16.51 cm (6.5 inch) Full HD+ Display",
+        "50MP (OIS) + 8mp | 16MP Front camera",
+        "6000 mAh Battery",
+        "Dimensity 7025 Processor"
+      ],
+      "ratings": {
+        "average": 4.2,
+        "count": 13420,
+        "reviewCount": 819
+      },
+      "price": "19999",
+      "offerPrice": "15999",
+      "discount": "24% off",
+      "delivery": "Free delivery",
+      "image": "images/moto-g64-ice-lilac-256.webp"
+    },
+
+    {
+      "id": "MOTOROLA",
+      "title": "Motorola G34 5G (Ocean Green, 128 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 128 GB ROM",
+        "16.51 cm (6.5 INCH) HD+ Display",
+        "50MP + 2MP | 16MP Front CAmera",
+        "5000 mAH Battery",
+        "Snapdragon 695 5G Processsor",
+        "Vegan Leather Design"
+      ],
+      "ratings": {
+        "average": 4.2,
+        "count": 11999,
+        "reviewCount": 7828
+      },
+      "price": "14999",
+      "offerPrice": "11999",
+      "discount": "24% off",
+      "delivery": "Free delivery",
+      "image": "images/moto-g34-green-128.webp"
+    },
+
+    {
+      "id": "MOTOROLA",
+      "title": "Motorola Edge 50 Fusion (Hot Pink, 128 GB)",
+      "details": [
+        "8 GD RAM | 128 GB ROM",
+        "17.02 cm (6.7 inch) FULL HD+ Display",
+        "50MP + 13MP | 32MP Front Camera",
+        "5000 mAh Battery",
+        "7s Gen 2 Processor"
+      ],
+      "ratings": {
+        "average": 4.5,
+        "count": 30011,
+        "reviewCount": 1908
+      },
+      "price": "25999",
+      "offerPrice": "22999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/moto-edge50.webp"
+    },
+    {
+      "id": "MOTOROLA",
+      "title": "Motorola Edge 50 Fusion (Marshmallow Blue, 256 GB)",
+      "ram": 12,
+      "details": [
+        "12 GB RAM | 256 GB ROM",
+        "17.02 cm (6.7 inch) Full HD+ Display",
+        "50MP + 13MP | 32MP Front Camera",
+        "5000 mAh Battery",
+        "7s Gen 2 Processor"
+      ],
+      "ratings": {
+        "average": 4.5,
+        "count": 25112,
+        "reviewCount": 1767
+      },
+      "price": "27999",
+      "offerPrice": "24999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/edge-50-fusion-blue-256.webp"
+    },
+
+    {
+      "id": "MOTOROLA",
+      "title": "Motorola Edge 50 Fusion (Marshmallow Blue, 128 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 128 GB ROM",
+        "17.022 cm (6.7b inch) Full HD+ Display",
+        "50MP + 13MP | 32Mp Front Camera",
+        "5000 mAh Battery",
+        "7s Gen 2 Processor"
+      ],
+      "ratings": {
+        "average": 4.5,
+        "count": 30011,
+        "reviewCount": 1908
+      },
+      "price": "25999",
+      "offerPrice": "22999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/edge-50-fusion-blue-256.webp"
+    },
+
+    {
+      "id": "MOTOROLA",
+      "title": "Motorola g64 5G (Pearl Blue 256 GB)",
+      "ram": 12,
+      "details": [
+        "12 GB RAM | 256 GB ROM | EXxpandable Upto 1 TB",
+        "16.51 cm (6.5 inch) Full HD+ Display",
+        "50MP (OIS) + 8MP | 16MP Front Camera",
+        "6000 mAH Battery",
+        "Dimensity 7025 Processor"
+      ],
+      "ratings": {
+        "average": 4.2,
+        "count": 13420,
+        "reviewCount": 819
+      },
+      "price": "19999",
+      "offerPrice": "15999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/moto-g64-blue.webp"
+    },
+
+    {
+      "id": "OPPO",
+      "title": "OPPO KL12x 5g with 45W SUPERVOOX Charger In-The Box (Midnight Voilet, 128 GB)",
+      "ram": 6,
+      "details": [
+        "6 GB RAM | 128 GB ROM | Exandable Upto 1 TB",
+        "16.94 cm (6.67 inch) HD Display",
+        "32MP + 2MP | 8MP Front Camera",
+        "5100 mAh Battery",
+        "Dimensity 6300 Processor"
+      ],
+      "ratings": {
+        "average": 4.6,
+        "count": 3840,
+        "reviewCount": 59
+      },
+      "price": "16999",
+      "offerPrice": "12999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/oppo-k12x-violet.webp"
+    },
+
+    {
+      "id": "MOTOROLA",
+      "title": "Motorola Edge 50 Fusion (forest Blue, 128 GB)",
+      "ram": 4,
+      "details": [
+        "4 GB RAM | 128 GB ROM",
+        "17.02 cm (6.7 inch) full HD+ Display",
+        "50MP + 13MP | 32MP Front Camera",
+        "5000 mAh Battery",
+        "7s Gen 2 Processor"
+      ],
+      "ratings": {
+        "average": 4.5,
+        "count": 30011,
+        "reviewCount": 1908
+      },
+      "price": "25999",
+      "offerPrice": "22999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/moto-edge50-fusion-blue.webp"
+    },
+
+    {
+      "id": "vivo",
+      "title": "vivo T3 Lite 5g (Vibrant Green, 128 GB)",
+      "ram": 6,
+      "details": [
+        "6 GB RAM | 128 GB ROM  | Expandable Upto 1 TB",
+        "16.66 cm (6.56 inch) Display",
+        "50MP + 2MP | 8MP Front Camera",
+        "5000 mAH Battery",
+        "Dimensity 6300 Processor"
+      ],
+      "ratings": {
+        "average": 4.4,
+        "count": 9090,
+        "reviewCount": 317
+      },
+      "price": "15499",
+      "offerPrice": "11499",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/vivo-t3-green.webp"
+    },
+
+    {
+      "id": "redmi",
+      "title": "REDMI 13C (Starshine Green, 128 GB)",
+      "ram": 4,
+      "details": [
+        "4 GB RAM | 128 GB ROM | Expandable Upto 1 Tb",
+        "17.12 cm (6.74 inch) HD+ Display",
+        "50MP Rear Camera | 8MP Front Camera",
+        "5000 mAh Battery",
+        "Helio G85 Processor"
+      ],
+      "ratings": {
+        "average": 4.3,
+        "count": 34388,
+        "reviewCount": 1447
+      },
+      "price": "11999",
+      "offerPrice": "7699",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/redmi-13c-green.webp"
+    },
+
+    {
+      "id": "realme",
+      "title": "realme 12x 5g(Woodland Green, 128 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+        "17.07 cm (6.72 inch) Full HD+ Display",
+        "50MP + 2MP | 8MP Front Camera",
+        "5000 mAh Battery",
+        "Dimensity 6100+ Processor"
+      ],
+      "ratings": {
+        "average": 4.4,
+        "count": 5244,
+        "reviewCount": 233
+      },
+      "price": "18999",
+      "offerPrice": "14999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/realme-12plus-green.webp"
+    },
+
+    {
+      "id": "POCO",
+      "title": "POCO C61 - Locked with Airtel Prepaid (Diamond Dust Black, 64 GB)",
+      "ram": 4,
+      "details": [
+        "4 GB RAM | 64 GB ROM | Expandable Upto 1 TB ",
+        "17.04 cm (6.71 inch) HD+ Display",
+        "8MP Rear Camera | 5mp Front Camera",
+        "5000 mAh Battery",
+        "Helio G36 Processor"
+      ],
+      "ratings": {
+        "average": 4.2,
+        "count": 13855,
+        "reviewCount": 427
+      },
+      "price": "8999",
+      "offerPrice": "5799",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/poco-c61-black.webp"
+    },
+
+    {
+      "id": "POCO",
+      "title": "POCO C65 (Pastel Blue, 128 GB)",
+      "ram": 6,
+      "details": [
+        "6 GB RAM | 128 GB ROM  | Expandable Upto 1 TB",
+        "17.12 CM (6.74 inch) HD+ Display",
+        "50MP + AI Lens + 2MP | 8MP Front Camera",
+        "5000 mAh Battery",
+        "Helio G85 Processor"
+      ],
+      "ratings": {
+        "average": 4.2,
+        "count": 134111,
+        "reviewCount": 678
+      },
+      "price": "11999",
+      "offerPrice": "7299",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/poco-c65-blue.webp"
+    },
+
+    {
+      "id": "SAMSUNG",
+      "title": "SAMSUNG galaxy S23 FE (Mint, 128GB)",
+      "ram": 6,
+      "details": [
+        "6 GB RAM | 128 GB ROM",
+        "16.26 cm (6.4 inch) Full HD+ Display",
+        "50MP + 12MP | 10MP Front Camera",
+        "4500 mAh Battery",
+        "Samsung Exynos 2200 Processor"
+      ],
+      "ratings": {
+        "average": 4.3,
+        "count": 11640,
+        "reviewCount": 783
+      },
+      "price": "79999",
+      "offerPrice": "33999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/samsung-galaxy-s23fe-mint.webp"
+    },
+
+    {
+      "id": "SAMSUNG",
+      "title": "SAMSUNG Galaxy s23 5G (Green, 256 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 256 GB ROM",
+        "15.49 cm(6.1 inch) Full HD+ Display",
+        "50MP + 10MP + 12MP | 12MP Front Camera",
+        "3900 mAh Lithium Ion Battery",
+        "Qualcom snapdragon 8 Gen 2 Processor"
+      ],
+      "ratings": {
+        "average": 4.5,
+        "count": 12403,
+        "reviewCount": 1172
+      },
+      "price": "95999",
+      "offerPrice": "49999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/samsung-galaxy-s23-green.webp"
+    },
+
+    {
+      "id": "REDMI",
+      "title": "REDMI 13C 5G (Startrail Silver, 128 GB)",
+      "ram": 4,
+      "details": [
+        "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+        "17.12 cm (6.74 inch) HD+ Display",
+        "50MP Rear Camera | 5MP Front Camera",
+        "5000 mAh Battery",
+        "T612 Processor"
+      ],
+      "ratings": {
+        "average": 4.4,
+        "count": 924,
+        "reviewCount": 39
+      },
+      "price": "10999",
+      "offerPrice": "8999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/realme-c63-green.webp"
+    },
+
+    {
+      "id": "realme",
+      "title": "realme C63 (Jade Green, 128 GB)",
+      "ram": 12,
+      "details": [
+        "4 GB RAM | 128 GB ROM | Expanable Upto 2 tb",
+        "17.13 cm (6.745 inch) HD+ Display",
+        "50MP Rear Camera | 8MP Front Camera",
+        "5000 mAh Battery",
+        "T612 processor"
+      ],
+      "ratings": {
+        "average": 4.4,
+        "count": 924,
+        "reviewCount": 39
+      },
+      "price": "10999",
+      "offerPrice": "8999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/realme-c63-green.webp"
+    },
+
+    {
+      "id": "POCO",
+      "title": "POCO C65 (Pastel Green, 128 GB)",
+      "ram": 4,
+      "details": [
+        "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+        "17.12 cm (6.74 inch) HD+ Display",
+        "50MP + AI Lens + 2MP | 8MP Front Camera",
+        "5000 mAh Battery",
+        "Helio g85 Processor"
+      ],
+      "ratings": {
+        "average": 4.3,
+        "count": 41252,
+        "reviewCount": 2173
+      },
+      "price": "10999",
+      "offerPrice": "6799",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/poco-c65-green.webp"
+    },
+
+    {
+      "id": "SAMSUNG",
+      "title": "SAMSUNG Galaxy S23 5G (Lavender, 128 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 128 GB ROM",
+        "15.49 cm (6.1 inch) Full HD+ Display",
+        " 50MP + 10MP + 12MP |  12MP Front Camera",
+        "3900 mAh Lithium Ion Battery",
+        "Qualcomm Snapdragon 8 Gen 2 Processor"
+      ],
+      "ratings": {
+        "average": 4.5,
+        "count": 12403,
+        "reviewCount": 1172
+      },
+      "price": "89999",
+      "offerPrice": "44999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/samsung-galaxy-s23-lavender.webp"
+    },
+
+    {
+      "id": "oneplus",
+      "title": "OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 128 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 128 GB ROM",
+        "17.07 cm (6.72 inch) Display",
+        "108MP Rear Camera",
+        "5000 mAh Battery",
+        "Qualcomm Snapdragon 8 Gen 2 Processor"
+      ],
+      "ratings": {
+        "average": 4.4,
+        "count": 104164,
+        "reviewCount": 5508
+      },
+      "price": "19999",
+      "offerPrice": "16797",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/oneplus-nord-ce3-gray.webp"
+    },
+
+    {
+      "id": "oneplus",
+      "title": "OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 256 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 256 GB ROM",
+        "17.07 cm (6.72 inch) Display",
+        "108MP Rear Camera",
+        "5000 mAh Battery"
+      ],
+      "ratings": {
+        "average": 4.4,
+        "count": 104164,
+        "reviewCount": 5508
+      },
+      "price": "21999",
+      "offerPrice": "18170",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/oneplus-nord-ce3-gray.webp"
+    },
+
+    {
+      "id": "nokia",
+      "title": "Nokia 105 Single SIM, Keypad Mobile Phone with Wireless FM Radio",
+      "ram": 1,
+      "details": [
+        "32 MB RAM | 32 MB ROM",
+        "4.5 cm (1.77 inch) Display",
+        "0MP | 0MP Front Camera",
+        "1000 mAh Battery",
+        "SC651E Processor"
+      ],
+      "ratings": {
+        "average": 4.1,
+        "count": 108117,
+        "reviewCount": 6702
+      },
+      "price": "1599",
+      "offerPrice": "1246",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/nokia-105-keypad.webp"
+    },
+
+    {
+      "id": "SAMSUNG",
+      "title": "SAMSUNG Galaxy f34 5G (Mystic Green, 128 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 128 GB ROM | Expnadable Upto 1 TB",
+        "16.51 cm (6.4 inch) Full HD+ Display",
+        "50MP (OIS) + 8MP + 2MP | 13MP Front Camera",
+        "6000 mAh Battery",
+        "Exynos 1280 Processor"
+      ],
+      "ratings": {
+        "average": 4.2,
+        "count": 42095,
+        "reviewCount": 3169
+      },
+      "price": "24499",
+      "offerPrice": "12999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/samsung-galaxy-f34-green.webp"
+    },
+
+    {
+      "id": "nothing",
+      "title": "Nothing Phone (2a) 5G (White, 256 GB)",
+      "ram": 12,
+      "details": [
+        "12 GB RAM | 256 GB  ROM",
+        "17.02 cm (6.7 inch) Full HD+ Display",
+        "50MP (OIS) + 50MP | 32MP Front Camera",
+        "5000 mAh Battery",
+        "Dimensity 7200 Pro Processor"
+      ],
+      "ratings": {
+        "average": 4.4,
+        "count": 6225,
+        "reviewCount": 622
+      },
+      "price": "29999",
+      "offerPrice": "27999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/nothing-2a-white.webp"
+    },
+    {
+      "id": "realme",
+      "title": "realme C63 (Leather Blus, 128 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+        " 17.13 CM (6.745 inch) Display",
+        "50MP Rear Camera | 8MP Front Camera",
+        "5000 mAh Battery",
+        "t612 Processor"
+      ],
+      "ratings": {
+        "average": 4.4,
+        "count": 924,
+        "reviewCount": 39
+      },
+      "price": "10999",
+      "offerPrice": "8999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/realme-c63-blue.webp"
+    },
+
+    {
+      "id": "nothing",
+      "title": "Nothing Phone (2a) 5G (Black, 256 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 256 GB ROM",
+        "17.02 cm (6.7 inch) Full HD+ Display",
+        "50MP (OIS) + 50MP | 32MP Front Camera",
+        "5000 mAh Battry",
+        "Dimensity 7200 Pro Processor"
+      ],
+      "ratings": {
+        "average": 4.4,
+        "count": 40789,
+        "reviewCount": 4113
+      },
+      "price": "27999",
+      "offerPrice": "25999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/nothing-2a-black.webp"
+    },
+
+    {
+      "id": "realme",
+      "title": "realme P1 5G (Peacock Green, 128 GB)",
+      "ram": 8,
+      "details": [
+        " 8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+        "16.94 cm (6.67 inch) Full HD+ Dispaly",
+        "50MP + 2MP | 16MP FRONT Camera",
+        "5000 mAh Battery",
+        "Dimensity 7050 Processor"
+      ],
+      "ratings": {
+        "average": 3,
+        "count": 11832,
+        "reviewCount": 664
+      },
+      "price": "21999",
+      "offerPrice": "16999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/realme-p1-green.webp"
+    },
+
+    {
+      "id": "Apple",
+      "title": "Apple iPhone 13 (Midnight , 256GB)",
+      "ram": 8,
+      "details":[
+        "256 GB ROM",
+        "15.49 cm (6.1 inch) Super Retina XDT Display",
+        "12MP + 12MP | 12MP Front Camera",
+        "5000 mAh Battery",
+        "A15 Bonic Chip Processor"
+      ],
+      "ratings": {
+        "average": 4.6,
+        "count": 283302,
+        "reviewCount": 13689
+      },
+      "price": "69600",
+      "offerPrice": "59999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/iphone-13-midnight.webp"
+    },
+
+    {
+      "id": "realme",
+      "title": "realme 12X 5G (Twilight Purple, 128 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+        "17.07 cm (6.72 inch) Full HD+ Display",
+        "50 MP + 2MP | 8MP Front Camera",
+        "5000 mAh Battery",
+        "Dimensity 6100+ Processor"
+      ],
+      "ratings": {
+        "average": 4.4,
+        "count": 5244,
+        "reviewCount": 233
+      },
+      "price": "18999",
+      "offerPrice": "14999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/realme-12x-purple.webp"
+    },
+
+    {
+      "id": "oneplus",
+      "title": "OnePlus Nord CE 3 Lite 5G (Pastel Lime, 256 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 256 GB ROM ",
+        "17.07 cm (6.72 inch) Display",
+        "108MP Rear camera || 10MP Front Camera",
+        "5000 mAh Battery"
+      ],
+      "ratings": {
+        "average": 4.4,
+        "count": 104164,
+        "reviewCount": 5508
+      },
+      "price": "21999",
+      "offerPrice": "18227",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/oneplus-nord-ce3lite-lime.webp"
+    },
+
+    {
+      "id": "POCO",
+      "title": "POCO M6 5G - Locked with Airtle Prepaid (Orion Blus, 128 GB)",
+      "ram": 4,
+      "details": [
+        "4 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+        "17.12 cm (6.74 inch) HD+ Display",
+        "50MP Rear Camera | 5MP Front Camera",
+        "5000 mAh Battery",
+        "Mediatek Dimensity 6100+ Proccesor"
+      ],
+      "ratings": {
+        "average": 4.1,
+        "count": 36886,
+        "reviewCount": 2023
+      },
+      "price": "12999",
+      "offerPrice": "8249",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/poco-m6-blue.webp"
+    },
+
+    {
+      "id": "Apple",
+      "title": "Apple iPhone 15 (Green, 256 GB)",
+      "ram": 8,
+      "details": [
+        "256 GB ROM",
+        "15.49 cm (6.1 inch) Super retina XDR Display",
+        "48MP + 12MP | 12MP Front Camera",
+        "A16 Bionic Chip, 6 core Processor ",
+        "Mediatek Dimensity 6100+ Processor"
+      ],
+      "ratings": {
+        "average": 4.6,
+        "count": 45313,
+        "reviewCount": 2430
+      },
+      "price": "89600",
+      "offerPrice": "75499",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/iphone-15-green.webp"
+    },
+
+    {
+      "id": "realme",
+      "title": "realme Narzo N63 4G (Twilight Purple, 64 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 64 GB ROM",
+        "17.12 cm (6.74 inch) Display",
+        "50MP Rear Camera",
+        "5000 mAh Battery",
+        "Mediatak Dimensity 6100+ Processor"
+      ],
+      "ratings": {
+        "average": 4,
+        "count": 750,
+        "reviewCount": 14
+      },
+      "price": "9999",
+      "offerPrice": "8449",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/realme-narzo-n63-purple.webp"
+    },
+
+    {
+      "id": "OnePlus",
+      "title": "OnePlus Nord cE 3 Lite 5G (Pastel Lime, 128 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 128 GB ROM",
+        "17.07 cm (6.72 inch) Display",
+        "108MP Rear camera",
+        "5000 mAh Battery",
+        "Mediatek Dimensity 6100+ Processor"
+      ],
+      "ratings": {
+        "average": 4.4,
+        "count": 104164,
+        "reviewCount": 5508
+      },
+      "price": "19999",
+      "offerPrice": "17499",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/oneplus-nord-ce3lite-lime.webp"
+    },
+
+    {
+      "id": "Apple",
+      "title": "Apple iphone 14 Plus (Starlight, 128 GB)",
+      "ram": "A",
+      "details": [
+        "128 GB ROM",
+        "17.02 cm (6.7 inch) Super retina XDR Display",
+        "12MP + 12MP | 12MP Front Camera",
+        "A15 Bionic Chip, 6 core processor "
+      ],
+      "ratings": {
+        "average": 3,
+        "count": 77507,
+        "reviewCount": 4339
+      },
+      "price": "79600",
+      "offerPrice": "60476",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/iphone-14-plus-starlight.webp"
+    },
+
+    {
+      "id": "POCO",
+      "title": "POCO M5 5G (Galactic Black, 128 GB)",
+      "ram": 6,
+      "details": [
+        "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+        "17.12 cm (6.74 inch) HD+ Display",
+        "50MP Rear Camera | 5MP Front Camera",
+        "Mediatek Dimensity 6100+ Processor"
+      ],
+      "ratings": {
+        "average": 4.3,
+        "count": 24418,
+        "reviewCount": 1289
+      },
+      "price": "13999",
+      "offerPrice": "9999",
+      "discount": "",
+      "delivery": "Free delivery",
+      "image": "images/poco-m6-black.webp"
+    },
+
+    {
+      "id": "realme",
+      "title": "realme 12+ 5G (Pioneer Green, 128 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+        "16.94 cm (6.67 inch) Full HD+ Display",
+        "50MP + 8MP + 2MP | 16MP Front Camera",
+        "5000 mAh Battery",
+        "Dimensity 7050 Processor"
+      ],
+      "ratings": {
+        "average": 4.3,
+        "count": 12513,
+        "reviewCount": 1066
+      },
+      "price": "23999",
+      "offerPrice": "20999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/realme-12plus-green.webp"
+    },
+
+    {
+      "id": "SAMSUNG",
+      "title": "SAMSUNG Galaxy S23 FE (Purple, 128 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 128 GB ROM",
+        "16.25 cm (6.4 inch) Full HD+ Display",
+        "50MP + 12MP | 10MP Front Camera",
+        "Samsung Exynos 2200 Proccesor"
+      ],
+      "ratings": {
+        "average": 4.3,
+        "count": 11640,
+        "reviewCount": 783
+      },
+      "price": "79999",
+      "offerPrice": "34999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/samsung-galaxy-s23fe-purple.webp"
+    },
+
+    {
+      "id": "POCO",
+      "title": "POCO C65 (Matte Black , 128 GB)",
+      "ram": 6,
+      "details": [
+        "6 GB RAM | 128 GB ROM | Expandable Upto 1 TB",
+        "17.12 cm (6.74 inch) HD+ Display",
+        "50MP + AI Lens + 2MP | 8MP Front Camera",
+        "5000 mAh Battery",
+        "Helio G36 Processor"
+      ],
+      "ratings": {
+        "average": 4.2,
+        "count": 134111,
+        "reviewCount": 678
+      },
+      "price": "11999",
+      "offerPrice": "7299",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/poco-c65-black.webp"
+    },
+
+    {
+      "id": "Apple",
+      "title": "Apple iPhone Plus (Pink, 128 GB)",
+      "ram": "A",
+      "details": [
+        "128 GB ROM",
+        "17.02 cm(6.7 inch) Super Retina XDR Display",
+        "48MP + 12MP | 12MP Front Camera",
+        "5000 mAh Battery",
+        "A16 Bionic Chip, 6 core Processor"
+      ],
+      "ratings": {
+        "average": 4.6,
+        "count": 7780,
+        "reviewCount": 645
+      },
+      "price": "89600",
+      "offerPrice": "74999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/iphone-15plus-pink.webp"
+    },
+
+    {
+      "id": "infinix",
+      "title": "Infinix Smart 8 (Rainbow, 128 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 128 GB ROM | Expandable Upto 2 TB",
+        "16.76 cm (6.6 inch) HD+ Display",
+        "50MP + AI Lens | 8MP Display",
+        "5000 mAh Battery",
+        "Helio G36 Processor"
+      ],
+      "ratings": {
+        "average": 4.3,
+        "count": 8074,
+        "reviewCount": 475
+      },
+      "price": "10999",
+      "offerPrice": "7999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/infinix-smart8-blue.webp"
+    },
+
+    {
+      "id": "Google",
+      "title": "Google Pixel 7 (Lemongrass , 128GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 128 GB ROM",
+        "16.0 cm (6.3 inch) Full HD+ Display",
+        "50MP + 12MP | 10.8MP Front Camera",
+        "4270 mAh Battery",
+        "Google Tensor G2 Processor"
+      ],
+      "ratings": {
+        "average": 4.3,
+        "count": 15111,
+        "reviewCount": 1790
+      },
+      "price": "59999",
+      "offerPrice": "32999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/google-pixel-7-lemongrass.webp"
+    },
+
+    {
+      "id": "vivo",
+      "title": "vivo T3x 5G (Celestial Green, 128 GB)",
+      "ram": 6,
+      "details": [
+        "6 GB RAM | 128 GB ROM | Expandable ",
+        "17.07 cm (6.72 inch) Full HD+  Display",
+        "50MP + 2MP | 8MP Front Camera",
+        "6000 mAh Battery",
+        "6 Gen 1 Processor"  
+      ],
+      "ratings": {
+        "average": 4.5,
+        "count": 41655,
+        "reviewCount": 1307
+      },
+      "price": "189999",
+      "offerPrice": "14999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/vivo-t3x-green.webp"
+    }, 
+
+    {
+      "id": "realme",
+      "title": "realme P1 Pro 5G (Parrot Blue, 256 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 256 GB ROM",
+        "17.02 cm (6.7 inch)  Full HD+ Display",
+        "50MP + 8MP | 16MP Front Camera",
+        "6000 mAh Battery",
+        "6 Gen 1 Processor"
+      ],
+      "ratings": {
+        "average": 4.4,
+        "count": 12059,
+        "reviewCount": 777
+      },
+      "price": "25999",
+      "offerPrice": "19999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/realme-p1pro-blue.webp"
+    },
+
+    {
+      "id": "realme",
+      "title": "realme 12+ 5G (Pioneer Green, 256 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 256 GB ROM | Expandable Upto 2 TB",
+        "16.94 cm (6.67 inch) Fulll HD+ Display",
+        "50MP + 8MP + 2MP | 16MP Front Camera",
+        "6000 mAh Battery",
+        "Dimensity 7050 Processor"
+      ],
+      "ratings": {
+        "average": 4.3,
+        "count": 12513,
+        "reviewCount": 1066
+      },
+      "price": "25999",
+      "offerPrice": "21999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/realme-12plus-green.webp"
+    },
+
+    {
+      "id": "realme",
+      "title": "realme 12+ 5G (Navigator Beige, 256GB)",
+      "ram": 8,
+      "details": [
+        "8GB RAM | 256 GB ROM | Expandable Upto 2 TB ",
+        "16.94 cm (6.67 inch) Full HD+ Display",
+        "50MP + 8MP + 2MP | 16MP Front Camera",
+        "5000 mAh Battery",
+        "Dimensity 7050 Processor"
+      ],
+      "ratings": {
+        "average": 4.3,
+        "count": 12513,
+        "reviewCount": 1066
+      },
+      "price": "25999",
+      "offerPrice": "21999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/realme-12plus-beige.webp"
+    },
+
+    {
+      "id": "Apple",
+      "title": "Apple iphone 15 (Yellow, 128GB)",
+      "ram": "A",
+      "details": [
+        "128 GB ROM",
+        "15.49 cm (6.1 inch) Super Retina XDR Display",
+        "48MP + 12MP | 12MP Front Camera",
+        "A16 Bionic chip, 6 Core Processor"
+      ],
+      "ratings": {
+        "average": 4.6,
+        "count": 45313,
+        "reviewCount": 2430
+      },
+      "price": "79600",
+      "offerPrice": "65499",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/iphone-15-yellow.webp"
+    },
+
+    {
+      "id": "infinix",
+      "title": "Infinix HOT 40i (Horizon Gold, 256 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 256 GB ROM | Expandable Upto 2 TB",
+        "16.76 cm (6.6 inch) HD+ Display",
+        "50 MP + AI Lens | 32MP Front Camera",
+        "5000 mAh Battery",
+        "Unisco T606 Processor"
+      ],
+      "ratings": {
+        "average": 4.1,
+        "count": 12742,
+        "reviewCount": 772
+      },
+      "price": "10999",
+      "offerPrice": "8999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/infinix-hot-40i-gold.webp"
+    },
+
+    {
+      "id": "MOTOROLA",
+      "title": "Motorola G85 5G (Olive Green, 128 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 128 GB ROM",
+        "16.94 cm (6.67 inch) Full HD+ Display",
+        "50MP + 8MP | 32MP Front Camera",
+        "6s Gen Processor"
+      ],
+      "ratings": {
+        "average": 4.5,
+        "count": 11028,
+        "reviewCount": 602
+      },
+      "price": "20999",
+      "offerPrice": "17999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/moto-g85-green.webp"
+    },
+
+    {
+      "id": "infinix",
+      "title": "Infinix SMART 8 (Galaxy White, 64 GB)",
+      "ram": 4,
+      "details": [
+        "4 GB RAM | 64 GB ROM | Expandable Upto 2 TB",
+        "16.67 cm (6.6 inch) HD+  Display",
+        "50 MP + AI Lens |  8MP Front Camera",
+        "5000 mAh Battery",
+        "Helio G36 Processor"
+      ],
+      "ratings": {
+        "average": 4.3,
+        "count": 22944,
+        "reviewCount": 1421
+      },
+      "price": "8999",
+      "offerPrice": "7299",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/infinix-smart8-white.webp"
+    },
+
+    {
+      "id": "google",
+      "title": "Google pixel 7a (Charcoal, 128 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 128 GB ROM ",
+        "15.49 cm (6.1 inch) Full HD+ Display",
+        "64MP (OIS) + 13MP | 13MP Front Camera",
+        "4300 mAh Battery",
+        "tensor G2 Processor"
+      ],
+      "ratings": {
+        "average": 4.1,
+        "count": 19902,
+        "reviewCount": 2098
+      },
+      "price": "43999",
+      "offerPrice": "36999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/google-pixel-7a-charcol.webp"
+    },
+
+    {
+      "id": "google",
+      "title": "Google Pixel 8 (Mint, 128 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 128 GB ROM",
+        "15.75 CM (6.2 inch) Full HD+  Display",
+        "50MP +  12MP | 10.5MP Front Camera",
+        "4575 mAh Battery",
+        "tensor G3 Processor",
+        "12MP + 12MP | 12MP Front Camera"
+      ],
+      "ratings": {
+        "average": 4.2,
+        "count": 2530,
+        "reviewCount": 343
+      },
+      "price": "75999",
+      "offerPrice": "58999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/google-pixel-8-mint.webp"
+    },
+
+    {
+      "id": "google",
+      "title": "Google Pixel 8a (Obsidian, 256 GB)",
+      "ram": 8,
+      "details": [
+        "8 GB RAM | 256 GB ROM",
+        "15.49 cm (6.1 inch) Full HD+ Display",
+        "64MP + 13MP | 13MP Front Camera",
+        "4404 mAh Battery",
+        "tensor G3 Processor"
+      ],
+      "ratings": {
+        "average": 4.1,
+        "count": 877,
+        "reviewCount": "102"
+      },
+      "price": "59999",
+      "offerPrice": "59999",
+      "discount": "10% off",
+      "delivery": "Free delivery",
+      "image": "images/google-pixel-8a-odsidian.webp"
+    }
+  ]
+}
